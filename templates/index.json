@@ -15,6 +15,8 @@
         "slide_Q4UPQq": {
           "type": "slide",
           "settings": {
+            "img_mobile": "shopify:\/\/shop_images\/man-adjusts-blue-tuxedo-bowtie_925x_7658b9a6-b6d4-4526-a806-77007f230166.jpg",
+            "img_desktop": "shopify:\/\/shop_images\/man-adjusts-blue-tuxedo-bowtie_925x_7658b9a6-b6d4-4526-a806-77007f230166.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
@@ -30,6 +32,7 @@
         "slide_TddqxQ": {
           "type": "slide",
           "settings": {
+            "img_desktop": "shopify:\/\/shop_images\/woman-in-the-city_925x_066c363e-8322-4ada-ae1f-9813c4e624ab.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
@@ -41,11 +44,28 @@
             "btn_secondary_text": "Secondary button",
             "btn_secondary_url": ""
           }
+        },
+        "slide_Mb6fNj": {
+          "type": "slide",
+          "settings": {
+            "img_desktop": "shopify:\/\/shop_images\/putting-on-your-shoes_925x_95a371ad-f7b4-4322-8dd6-71ecf5235f6b.jpg",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "overlay_blur": 0,
+            "subtitle": "Optional Subtitle",
+            "title": "Welcome to our store",
+            "description": "<p>An optional description for this slide<\/p>",
+            "btn_primary_text": "Primary button",
+            "btn_primary_url": "",
+            "btn_secondary_text": "Secondary button",
+            "btn_secondary_url": ""
+          }
         }
       },
       "block_order": [
         "slide_Q4UPQq",
-        "slide_TddqxQ"
+        "slide_TddqxQ",
+        "slide_Mb6fNj"
       ],
       "settings": {
         "bg_color": "bg-body",
