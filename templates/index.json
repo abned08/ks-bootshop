@@ -113,7 +113,7 @@
         "products": [
 
         ],
-        "collection": "latest",
+        "collection": "frontpage",
         "limit": 8,
         "recommended_mode": true,
         "recommended_mode_intent": "related",
